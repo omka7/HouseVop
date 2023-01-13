@@ -1,0 +1,36 @@
+.hero {
+    padding-top: 200px;
+    background: url(../img/hero/hero-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+.hero__title {
+    max-width: 556px;
+    font-size: 48px; 
+    color: #d4c17f;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.hero__img {
+    text-align: center;
+    margin: 100px;
+    margin-bottom: 200px;
+}
+
+.hero__bottom {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.hero__contact {
+    margin: 0 50px;
+    font-size: 18px;
+    font-family: 'Raleway';
+}
+
+.hero__address--icon {
+      margin-right:  18px;
+}
+
