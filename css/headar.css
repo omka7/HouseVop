@@ -11,11 +11,20 @@
  }
 
  .header__content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    max-width: 582px;
+
 }
 
 li {
     margin-left: 40px;
 }
+
+.header__list {
+    list-style: none;
+    font-family: 'Releway';
+}
+
+

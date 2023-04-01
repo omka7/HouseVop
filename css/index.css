@@ -26,3 +26,9 @@ li {
     margin-left: 40px;
 }
 
+
+.header__list {
+   
+    list-style: none;
+    font-family: 'Releway';
+}
