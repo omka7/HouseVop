@@ -1,0 +1,28 @@
+.footer {
+    margin-top: 180px;
+    background: #2D343C;
+    padding: 60px 0;
+}
+
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.footer__item {
+    margin-bottom: 15px;
+}
+
+.footer__mail {
+    font-weight: 500;
+    color: #D4c17F;
+}
+
+.footer__link {
+    color: #fff;
+}
+
+.footer__item img {
+    margin-right: 20px;
+}
